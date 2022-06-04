@@ -23,6 +23,7 @@ Currently I work as a business analyst in an IT company. I came to the RS course
 * Basic knowledge of **HTML**, **CSS**, **SQL**
 
 --------------------------
+
 ### Code example ###
 
 *I believe my code will get better and better with each task*
@@ -33,16 +34,19 @@ return a * b;
 }
 ``` 
 -----------------------------
+
 ### Work Experience
 
 2 years of experience as a business analyst
 
 -----------------------
+
 ### Language
 
 English - B2
 
 -------------------------
+
 ### Education
 
 * Minsk Radioengineering College(programming)
