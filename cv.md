@@ -23,11 +23,11 @@ Currently I work as a business analyst in an IT company. I came to the RS course
 
 *I believe my code will get better and better with each task*
 
-'''
+```
 function multiply(a, b) {
 return a * b;
 }
-'''
+``` 
 -----------------------------
 ### Work Experience
 * 2 years of experience as a business analyst
