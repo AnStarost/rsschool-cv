@@ -18,9 +18,9 @@ Currently I work as a business analyst in an IT company. I came to the RS course
 
 * Communicating with customers and gathering requirements
 * Manage the project and coordinate the work of the team using **Scrum**
+* Basic knowledge of **HTML**, **CSS**, **SQL**
 * Using **Use Cases, User Stories, BPMN, UML** to document requirements
 * Creating wireframes for designers in **Figma**
-* Basic knowledge of **HTML**, **CSS**, **SQL**
 
 --------------------------
 
