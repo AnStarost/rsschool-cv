@@ -21,6 +21,7 @@ Currently I work as a business analyst in an IT company. I came to the RS course
 * Using **Use Cases, User Stories, BPMN, UML** to document requirements
 * Creating wireframes for designers in **Figma**
 * Basic knowledge of **HTML**, **CSS**, **SQL**
+
 --------------------------
 ### Code example ###
 
@@ -34,11 +35,13 @@ return a * b;
 -----------------------------
 ### Work Experience
 
-* 2 years of experience as a business analyst
+2 years of experience as a business analyst
+
 -----------------------
 ### Language
 
-* English - B2
+English - B2
+
 -------------------------
 ### Education
 
