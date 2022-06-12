@@ -6,42 +6,42 @@ body {
 .parent-section {
     display: flex;
     flex-direction: row;
-    height: 110vh;
+    height: 800px;
     justify-content: center;
   }
 
 .block1 {
-    width: 20vw;
+    width: 300px;
     background: white;
     margin-right: 5px;
 }
 
 .block2 {
-    width: 40vw;
+    width: 550px;
     background: white;
 }
 
 .parent-header {
     display: flex;
-    height: 30vh;
+    height: 247px;
     justify-content: center;
 }
 
 .parent-header2 {
     display: flex;
-    width: 40vw;
+    height: 247px;
     justify-content: center;
 }
 
 .block-name {
-    width: 20vw;
+    width: 300px;
     background: black;
     margin-right:5px;
 }
 
 .block-image {
         background: white;
-        width: 20vw;
+        width: 290px;
 }
 
 .h1 {
@@ -50,7 +50,7 @@ body {
     font-size: 26px;
     font-weight: bold;
     letter-spacing: 8px;
-    margin: 55px 0px 0 0;
+    margin: 80px 0px 0 0;
     
 }
 
@@ -62,12 +62,12 @@ body {
 }
 
 .img {
-    width: 20vw;
+    width: 290px;
 }
 
 .block-contact {
     background: black;
-    width: 20vw;
+    width: 260px;
 }
 
 .contact {
@@ -75,25 +75,25 @@ body {
     font-size: 12px;
     letter-spacing: 2px;
     font-family: Cabin, sans-serif;
-    margin-top: 50px;
+    margin-top: 70px;
     margin-right:30px;
     padding-left: 30px;
-    list-style: none;
-    
+    list-style: none; 
  }
+
 .hr_contacts {
      margin-top: 5px;
-      }
+           }
 
  h2 {
-    background-color: 1C19AD;
+    background-color: #1C19AD;
     font-family: Cabin, sans-serif;
     color: white;
     font-size: 18px;
     font-weight: bold;
     letter-spacing: 5px;
     padding: 5px;
-    width: 17vw;
+    width: 250px;
     margin-left: 15px;
     margin-right: 15px;
  }
@@ -123,10 +123,12 @@ body {
 .icons_align {
     display: flex;
     align-items: center;
-    
+    border-bottom: 2px solid #1C19AD;
+    padding-top: 10px;
 }
 .icons_align_margin {
     margin: 0px;
+    
 }
 
 h3 {
@@ -136,6 +138,7 @@ h3 {
     font-weight: bold;
     letter-spacing: 5px;
     margin: 20px 15px 5px 25px;
+    border-bottom: 2px solid #1C19AD;
 }
 
 .profile-text {
@@ -185,7 +188,7 @@ h3 {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    height: 7vh;
+    height: 40px;
     }
 
 .footer-text {
@@ -195,7 +198,7 @@ h3 {
 }
 
 .github {
-    width: 30vw;
+    width: 425px;
     display: flex;
     align-items: center;
     margin-right: 5px;
@@ -204,8 +207,20 @@ h3 {
 }
 
 .rolling-scopes {
-    width: 30vw;
+    width: 425px;
     display: flex;
     justify-content: flex-end;
     align-items: center;
 }
+
+  a {
+      color: white;
+      text-decoration: none;
+  }
+
+  .scale {
+    transition: 1s;
+   }
+   .scale:hover {
+    transform: scale(1.1);
+   }
